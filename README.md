@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chubush&show_icons=true&locale=en" alt="chubush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chubush&" alt="chubush" /></p>
+![snake gif](https://github.com/Chubush/Chubush/blob/output/github-contribution-grid-snake.gif)
