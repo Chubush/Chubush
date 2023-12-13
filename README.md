@@ -1,4 +1,4 @@
-[![MasterHead](https://dosya.hizliresim.com/38lkjijmiZ8EMzY/preview)
+
 <h1 align="center">Hi 👋, I'm Safa GOK</h1>
 <h3 align="center">I am a workaholic software test engineer.</h3>
 
