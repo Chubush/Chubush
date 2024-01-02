@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Safa GOK</h1>
-<h3 align="center">I am a workaholic software test engineer.</h3>
+<h3 align="center">I am a workaholic software  engineer.</h3>
 
-- 🌱 I’m currently learning **Pyhton developer**
+- 🌱 I’m currently learning **Pyhton,Java developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chubush](https://github.com/Chubush)
 
