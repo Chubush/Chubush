@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Safa GOK</h1>
 <h3 align="center">I am a workaholic software  engineer.</h3>
 
-- 🌱  **Pyhton-Django WEB DEVELOPER**
+- 🌱  **Pyhton-Django FULL STACK WEB DEVELOPER**
+- 🌱  **Python REST FRAMEWORK Back-End Developer **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chubush](https://github.com/Chubush)
 
